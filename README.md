@@ -1,3 +1,3 @@
 # test-submodule
 
-Update 2
+Update 3
